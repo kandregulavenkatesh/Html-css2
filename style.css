@@ -1,0 +1,129 @@
+*{
+  margin: 0;
+}
+body{
+    background-color: bisque;
+    margin: 0px;
+}
+
+.image{
+    border: 2px solid black;
+    position: relative;
+    right: 28px;
+    bottom: 100px;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.frame{
+  position: relative;
+  height: 200px;
+  width: 800px;
+  left: 500px;
+  /* bottom: 300px; */
+}
+
+   .top {
+      overflow: hidden;
+      background-color: darkolivegreen;
+      left: auto;
+      width: 100%;
+    }
+    
+    .top a {
+      margin: 0;
+      float: left;
+      display: block;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 20px 15px;
+      text-decoration: none;
+      font-size: 30px;
+    }
+    .top a:hover {
+      background: #ddd;
+      color: black;
+    }
+      div{
+        position: relative;
+        left: 10px;
+      }
+      .froce{
+        border: 2px solid black;
+        border-radius: 5px;
+        padding: 50px 50px;
+        margin-top: 10px;
+        margin-left: 10px;
+      }
+      .center{
+        text-align: center;
+        padding: 10px;
+    }
+    .right{
+        position: relative;
+        left: 10px;
+    }
+    .india{
+      position: relative;
+      width: 600px;
+      padding-left: 10px;
+      background-color: aliceblue;
+      margin-right: 20px;
+      border: 2px solid black;
+    }
+    .copy{
+      position: relative;
+      padding-left: 5px;
+    }
+    .colour{
+      position: relative;
+      top: 10px;
+      list-style-type: none;
+      display: inline;
+      width: 50px;
+        margin: 0;
+        padding: 10px;
+        background-color: azure;
+        border-radius: 10px;
+        
+    }
+    .css{
+      position: relative;
+      left: 5px;
+    }
+    .colours{
+      position: relative;
+      left: 500px;
+
+    }
+    .Est{
+      position: relative;
+      left: 500px;
+      bottom: 250px;
+    }
+    .oct{
+      border: 2px solid black;
+     border-radius: 200px;
+     margin-top: 10px;
+     margin-left: 20px;
+    }
+    .ft{
+      position: relative;
+      padding: auto;
+      background-color: #333;
+      color: brown;
+
+    }
+   
+    .footer{
+      position: relative;
+      padding: 30px 10px;
+    }
+    .title{
+      position: relative;
+      top: 20px;
+      right: 100px;
+    }
+    
+
+  
+  
